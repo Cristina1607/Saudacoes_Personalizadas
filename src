@@ -1,0 +1,5 @@
+# Leitura do nome do usuário
+nome = input("Digite o seu nome: ")
+
+# Exibição da saudação personalizada
+print("Olá, {nome}! bem-vindo(a) ao nosso programa.")
