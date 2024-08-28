@@ -1,0 +1,35 @@
+```plaintext
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ambientes virtuais
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Configurações de IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+ Saudação Personalizada
+
+Descrição: Desenvolva um programa em Python que solicita ao usuário seu nome e exibe uma mensagem de saudação personalizada usando o nome fornecido. O programa deve exibir uma mensagem de boas-vindas no formato "Olá, [nome]! bem-vindo(a) ao nosso programa."
+
+Funcionalidades obrigatórias:
+
+1. Leitura do nome fornecido pelo usuário.
+2. Exibição de uma mensagem de saudação personalizada.
+Tecnologias: Python 3.x
+
+Licença: MIT License
