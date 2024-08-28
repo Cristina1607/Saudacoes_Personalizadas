@@ -1,0 +1,48 @@
+# Projeto: Saudação Personalizada
+
+Este projeto é um programa em Python que solicita o nome do usuário e exibe uma saudação personalizada. O objetivo é demonstrar o uso de entradas e a formatação de strings em Python.
+
+## Índice
+
+- [Descrição](#descrição)
+- [Funcionalidades](#funcionalidades)
+- [Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [Como Executar o Projeto](#como-executar-o-projeto)
+- [Exemplos de Uso](#exemplos-de-uso)
+- [Contribuições](#contribuições)
+- [Licença](#licença)
+- [Contato](#contato)
+
+## Descrição
+
+O programa solicita ao usuário que insira seu nome e, em seguida, exibe uma mensagem de saudação personalizada usando o nome fornecido.
+
+## Funcionalidades
+
+- Solicita ao usuário que insira seu nome.
+- Exibe uma mensagem de saudação personalizada usando o nome fornecido.
+
+## Tecnologias Utilizadas
+
+- **Linguagem de Programação:** Python 3.x
+
+## Como Executar o Projeto
+
+### Pré-requisitos
+
+- Python 3.x instalado.
+
+### Passos para Execução
+
+1. **Clone o repositório:**
+
+   ```bash
+   git clone https://github.com/Cristina1607/Saudacoes_Personalizadas.git
+2. Navegue até o diretório do projeto:
+  cd nome-do-repositorio
+3. Execute o programa:
+   python3 nome_do_arquivo.py
+4. Digite seu nome quando solicitado.
+
+Licença
+Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
